@@ -1,0 +1,5 @@
+package com.easybytes.gatewayserver.config;
+
+public class KeyCloakRoleConverter {
+
+}
